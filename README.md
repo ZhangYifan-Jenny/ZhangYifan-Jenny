@@ -34,7 +34,7 @@ An R package for Bayesian regularized latent variable modeling, developed as par
 
 ## 🛠 Technical Skills
 
-**Programming:** R, Python, C++, Rcpp, MATLAB 
+**Programming:** R, Python, C++, Rcpp, MATLAB  
 **Methods:** Bayesian modeling, MCMC, latent variable modeling, machine learning, deep learning  
 **Research:** Simulation studies, statistical computing, model evaluation, quantitative data analysis
 
