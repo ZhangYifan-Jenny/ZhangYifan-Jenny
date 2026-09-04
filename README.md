@@ -4,7 +4,7 @@ I am a researcher with interests spanning **Bayesian statistics, psychometrics, 
 
 My work focuses on developing flexible statistical and computational methods for complex data, with particular interests in **Bayesian regularization, latent variable models, educational and psychological measurement, machine learning, and reliable AI systems**.
 
-🌐 Personal Website [https://yifanzhang.top/]
+🌐 [Website](https://yifanzhang.top/)
 
 ## 🔎 Open to Opportunities
 
@@ -44,8 +44,8 @@ I am happy to connect regarding **research collaborations, postdoctoral opportun
 
 - 📧 Email: zyf2020@connect.hku.hk/yifan.jenny.zhang@gmail.com
 - 💻 GitHub: [ZhangYifan-Jenny](https://github.com/ZhangYifan-Jenny)
-- 🎓 Google Scholar: [https://scholar.google.com/citations?user=BdzttrMAAAAJ&hl=en&oi=sra]
-- 💼 LinkedIn: [https://www.linkedin.com/in/yifan-zhang-jenny/]
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=BdzttrMAAAAJ&hl=en&oi=sra)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yifan-zhang-jenny/)
 
 <!--
 **ZhangYifan-Jenny/ZhangYifan-Jenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
