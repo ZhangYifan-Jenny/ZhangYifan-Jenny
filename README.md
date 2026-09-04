@@ -1,10 +1,10 @@
-# Hi, I'm Yifan Zhang 👋
+# Hi there! 👋
 
-I am a researcher with interests spanning **Bayesian statistics, psychometrics, latent variable modeling, statistical machine learning, and AI/ML**.
+I am a researcher with interests spanning **Bayesian statistics, psychometrics, latent variable modeling, and AI/ML**.
 
 My work focuses on developing flexible statistical and computational methods for complex data, with particular interests in **Bayesian regularization, latent variable models, educational and psychological measurement, machine learning, and reliable AI systems**.
 
-🌐 [Website](https://yifanzhang.top/)
+🌐 [Website](https://yifanzhang.top/)  ·  🎓 [Google Scholar](https://scholar.google.com/citations?user=BdzttrMAAAAJ&hl=en&oi=sra)  ·  💼 [LinkedIn](https://www.linkedin.com/in/yifan-zhang-jenny/)
 
 ## 🔎 Open to Opportunities
 
@@ -34,7 +34,7 @@ An R package for Bayesian regularized latent variable modeling, developed as par
 
 ## 🛠 Technical Skills
 
-**Programming:** R, Python, C++, Rcpp, MATLAB
+**Programming:** R, Python, C++, Rcpp, MATLAB 
 **Methods:** Bayesian modeling, MCMC, latent variable modeling, machine learning, deep learning  
 **Research:** Simulation studies, statistical computing, model evaluation, quantitative data analysis
 
@@ -43,9 +43,6 @@ An R package for Bayesian regularized latent variable modeling, developed as par
 I am happy to connect regarding **research collaborations, postdoctoral opportunities, and industry positions**.
 
 - 📧 Email: zyf2020@connect.hku.hk/yifan.jenny.zhang@gmail.com
-- 💻 GitHub: [ZhangYifan-Jenny](https://github.com/ZhangYifan-Jenny)
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=BdzttrMAAAAJ&hl=en&oi=sra)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yifan-zhang-jenny/)
 
 <!--
 **ZhangYifan-Jenny/ZhangYifan-Jenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
